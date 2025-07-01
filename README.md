@@ -27,15 +27,6 @@
 - 🎨 **Music Producer** - Creative technologist with a passion for music creation  
 
 ---
-
-## 🎯 2025 Goals
-
-- [ ] Master advanced smart contract development  
-- [ ] Work on my DSA skills  
-- [ ] Launch 2 major blockchain applications  
-- [ ] Speak at a blockchain conference  
-- [ ] Improve my lifestyle  
-
 ---
 
 ## 💼 Experience
