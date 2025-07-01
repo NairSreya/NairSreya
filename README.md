@@ -148,7 +148,7 @@
 - [Blockchain Whitepaper but easier](https://medium.com/@sreyanair0609/bitcoin-whitepaper-but-easier-473f7d23386d)  
 <!-- BLOG-POST-LIST:END -->
 
-➡ [More articles on Medium](https://medium.com/@sreyanair0609)  
+ [More articles on Medium](https://medium.com/@sreyanair0609)  
 
 ---
 
