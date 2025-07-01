@@ -27,7 +27,6 @@
 - 🎨 **Music Producer** - Creative technologist with a passion for music creation  
 
 ---
----
 
 ## 💼 Experience
 
