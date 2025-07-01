@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! 👋 I'm Sreya Nair</h1>
+<h1 align="center">Hi there! I'm Sreya Nair</h1>
 <h3 align="center">A passionate Blockchain Developer & Creative Technologist from India</h3>
 
 <p align="center">
@@ -7,43 +7,43 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 🔭 I'm currently building **[Maggi Thela](https://maggithelasite.web.app/index.html)** - bringing delicious experiences to the digital world  
-- 🌱 I'm diving deep into **backend development for Blockchain Technology** and exploring the decentralized ecosystem  
-- 👯 I'm excited to collaborate on **VITas** and other innovative blockchain projects  
-- 🤝 I'm seeking collaborators and contributors for **[Maggi Thela](https://maggithelasite.web.app/index.html)** - let's build something amazing together!  
-- 💬 Let's talk about **blockchain technology, technical writing, and creative design**  
-- 📫 Reach out to me at **sreyanair0609@gmail.com**  
-- ⚡ Fun fact: **I make lo-fi music in my free time and love late-night coding jams**  
-
----
-
-## 🏆 Achievements & Highlights
-
-- 💎 **Blockchain Co-Lead** at **GDSC-VIT Bhopal** - [Certificate](https://drive.google.com/file/d/1xRFUCrGC5EU7YnzC6F6gzB9dyIzZEVqH/view?usp=sharing)  
-- ✨ **Junior ML Engineer** at **Omdena - VIT Bhopal** - [Certificate](https://drive.google.com/file/d/1yEtCxSQvyDlFKY-bdjGbSc3RQSgLz6t9/view?usp=sharing)  
-- 🌟 **8.6 GPA** - Maintaining excellent academic performance  
-- 🎨 **Music Producer** - Creative technologist with a passion for music creation  
+-  I'm currently building **[Maggi Thela](https://maggithelasite.web.app/index.html)** - bringing delicious experiences to the digital world  
+-  I'm diving deep into **backend development for Blockchain Technology** and exploring the decentralized ecosystem  
+-  I'm excited to collaborate on **VITas** and other innovative blockchain projects  
+-  I'm seeking collaborators and contributors for **[Maggi Thela](https://maggithelasite.web.app/index.html)** - let's build something amazing together!  
+-  Let's talk about **blockchain technology, technical writing, and creative design**  
+-  Reach out to me at **sreyanair0609@gmail.com**  
+-  Fun fact: **I make lo-fi music in my free time**  
 
 ---
 
-## 💼 Experience
+##  Achievements & Highlights
 
-### 🔹 **Blockchain Co-Lead** at **GDSC-VIT Bhopal**  
+-  **Blockchain Co-Lead** at **GDSC-VIT Bhopal** - [Certificate](https://drive.google.com/file/d/1xRFUCrGC5EU7YnzC6F6gzB9dyIzZEVqH/view?usp=sharing)  
+-  **Junior ML Engineer** at **Omdena - VIT Bhopal** - [Certificate](https://drive.google.com/file/d/1yEtCxSQvyDlFKY-bdjGbSc3RQSgLz6t9/view?usp=sharing)  
+-  **8.6 GPA** - Maintaining excellent academic performance  
+-  **Music Producer** - Creative technologist with a passion for music creation  
+
+---
+
+##  Experience
+
+###  **Blockchain Co-Lead** at **GDSC-VIT Bhopal**  
 [*Certificate*](https://drive.google.com/file/d/1xRFUCrGC5EU7YnzC6F6gzB9dyIzZEVqH/view?usp=sharing)  
 - Blockchain Event Management  
 - Organized hands-on workshops and sessions  
 - Technologies used: Solidity, Ethereum, React, Web3.js  
 
-### 🔹 **Junior ML Engineer** at **Omdena - VIT Bhopal**  
+###  **Junior ML Engineer** at **Omdena - VIT Bhopal**  
 [*Certificate*](https://drive.google.com/file/d/1yEtCxSQvyDlFKY-bdjGbSc3RQSgLz6t9/view?usp=sharing)  
 - BRTS Chatbot Development  
 - Worked on data preprocessing, training, and conversational design  
 
 ---
 
-## 🎓 Education
+##  Education
 
 **VIT Bhopal University**  
 *B.Tech in Computer Science | 2021 - 2025*  
@@ -53,7 +53,7 @@
 
 ---
 
-## 🛠️ Tech Stack & Skills
+##  Tech Stack & Skills
 
 ### **Blockchain & Web3**
 <div align="left">
@@ -96,7 +96,7 @@
 </div>
 
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nairsreya&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
@@ -113,7 +113,7 @@
 
 ---
 
-## 🏅 GitHub Trophies
+##  GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=nairsreya&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
@@ -121,17 +121,17 @@
 
 ---
 
-## 🌟 Featured Projects
+##  Featured Projects
 
 <div align="center">
   
-### 🍜 [Maggi Thela](https://maggithelasite.web.app/index.html)  
+###  [Maggi Thela](https://maggithelasite.web.app/index.html)  
 *Maggi Thela is my silly frontend specified project, just for fun. Maggi Thela is the safe space for all maggi lovers who wants to try different fun, uniques and bizzare maggi recipes and even share any recipes that they want. Try crazy recipes, share weird combinations, and discover new ways to make your favorite noodles*  
 **Tech Stack:** React, Firebase, Node.js  
 
 ---
 
-### 🔗 [VaultVerse](https://vaultverse-8ce06.web.app/)
+###  [VaultVerse](https://vaultverse-8ce06.web.app/)
 *VaultVerse is your digital crypto bank, where you can deposit ERC20 tokens, earn rewards like interest, and withdraw anytime—all on a secure and transparent blockchain platform.*  
 **Tech Stack:** [Solidity, Ganache, Truffle]  
 **Features:** Cypto Bank • Token Deposit • Anytime withdraw 
@@ -140,7 +140,7 @@
 
 ---
 
-## 📝 Latest Blog Posts
+##  Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Blocks and Bots](https://medium.com/@sreyanair0609/blocks-and-bots-d9899e4e367e)  
@@ -148,11 +148,11 @@
 - [Blockchain Whitepaper but easier](https://medium.com/@sreyanair0609/bitcoin-whitepaper-but-easier-473f7d23386d)  
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [More articles on Medium](https://medium.com/@sreyanair0609)  
+➡ [More articles on Medium](https://medium.com/@sreyanair0609)  
 
 ---
 
-## 🌐 Let's Connect
+##  Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sreya-nair-06b089252/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -171,7 +171,7 @@
 
 **Thank you for visiting my profile!**  
 
-*"Building the future, one block at a time"* 🚀  
+*"Building the future, one block at a time"*   
 
 </div>
 
