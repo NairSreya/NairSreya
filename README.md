@@ -9,7 +9,7 @@
 
 ## About Me
 
--  I'm currently building **[Grove](Coming Soon!)** -mindfulness app that turns focus sessions into a tree-growing game, helping users build virtual groves while tracking their productivity time. 
+-  I'm currently building **Grove(Coming Soon!)** -mindfulness app that turns focus sessions into a tree-growing game, helping users build virtual groves while tracking their productivity time. 
 -  I'm diving deep into **backend development for Blockchain Technology** and exploring the decentralized ecosystem  
 -  I'm excited to collaborate on **VITas** and other innovative blockchain projects  =
 -  Let's talk about **blockchain technology, technical writing, and creative design**  
