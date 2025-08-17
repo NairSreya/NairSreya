@@ -9,7 +9,7 @@
 
 ## About Me
 
--  I'm currently building **[Grove](https://maggithelasite.web.app/index.html)** -mindfulness app that turns focus sessions into a tree-growing game, helping users build virtual groves while tracking their productivity time. 
+-  I'm currently building **[Grove](Coming Soon!)** -mindfulness app that turns focus sessions into a tree-growing game, helping users build virtual groves while tracking their productivity time. 
 -  I'm diving deep into **backend development for Blockchain Technology** and exploring the decentralized ecosystem  
 -  I'm excited to collaborate on **VITas** and other innovative blockchain projects  =
 -  Let's talk about **blockchain technology, technical writing, and creative design**  
@@ -98,18 +98,17 @@
 
 <div align="center">
   
-###  [Maggi Thela](https://maggithelasite.web.app/index.html)  
-*Maggi Thela is my silly frontend specified project, just for fun. Maggi Thela is the safe space for all maggi lovers who wants to try different fun, uniques and bizzare maggi recipes and even share any recipes that they want. Try crazy recipes, share weird combinations, and discover new ways to make your favorite noodles*  
-**Tech Stack:** React, Firebase, Node.js  
-
----
-
 ###  [VaultVerse](https://vaultverse-8ce06.web.app/)
 *VaultVerse is your digital crypto bank, where you can deposit ERC20 tokens, earn rewards like interest, and withdraw anytime—all on a secure and transparent blockchain platform.*  
 **Tech Stack:** [Solidity, Ganache, Truffle]  
 **Features:** Cypto Bank • Token Deposit • Anytime withdraw 
 
 </div>
+
+---
+###  [Maggi Thela](https://maggithelasite.web.app/index.html)  
+*Maggi Thela is my silly frontend specified project, just for fun. Maggi Thela is the safe space for all maggi lovers who wants to try different fun, uniques and bizzare maggi recipes and even share any recipes that they want. Try crazy recipes, share weird combinations, and discover new ways to make your favorite noodles*  
+**Tech Stack:** React, Firebase, Node.js  
 
 ---
 
