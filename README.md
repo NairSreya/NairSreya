@@ -9,7 +9,7 @@
 
 ## About Me
 
--  I'm currently building **[Maggi Thela](https://maggithelasite.web.app/index.html)** - bringing delicious experiences to the digital world  
+-  I'm currently building **[Grove](https://maggithelasite.web.app/index.html)** - bringing delicious experiences to the digital world  
 -  I'm diving deep into **backend development for Blockchain Technology** and exploring the decentralized ecosystem  
 -  I'm excited to collaborate on **VITas** and other innovative blockchain projects  
 -  I'm seeking collaborators and contributors for **[Maggi Thela](https://maggithelasite.web.app/index.html)** - let's build something amazing together!  
