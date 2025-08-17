@@ -106,8 +106,10 @@
 </div>
 
 ---
+<div align="center">
+  
 ###  [Grove](https://grove-wellness-dapp.web.app/)  
-* Mindfulness and productivity app that gamifies focus sessions by letting users grow virtual trees, with features to track meditation sessions, time spent, and build a personal grove of trees representing your mindful moments.* 
+*Mindfulness and productivity app that gamifies focus sessions by letting users grow virtual trees, with features to track meditation sessions, time spent, and build a personal grove of trees representing your mindful moments* 
 **Tech Stack:**  Solidity, Sepolia, Hardhat, Ethereum, React, Firebase
 **Features:** Productivity •  Gamified •  Relaxing
 
