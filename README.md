@@ -9,10 +9,9 @@
 
 ## About Me
 
--  I'm currently building **[Grove](https://maggithelasite.web.app/index.html)** - bringing delicious experiences to the digital world  
+-  I'm currently building **[Grove](https://maggithelasite.web.app/index.html)** -mindfulness app that turns focus sessions into a tree-growing game, helping users build virtual groves while tracking their productivity time. 
 -  I'm diving deep into **backend development for Blockchain Technology** and exploring the decentralized ecosystem  
--  I'm excited to collaborate on **VITas** and other innovative blockchain projects  
--  I'm seeking collaborators and contributors for **[Maggi Thela](https://maggithelasite.web.app/index.html)** - let's build something amazing together!  
+-  I'm excited to collaborate on **VITas** and other innovative blockchain projects  =
 -  Let's talk about **blockchain technology, technical writing, and creative design**  
 -  Reach out to me at **sreyanair0609@gmail.com**  
 -  Fun fact: **I make lo-fi music in my free time**  
@@ -95,23 +94,6 @@
   <img src="https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue" />
 </div>
 
-
-## GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nairsreya&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nairsreya&layout=compact&langs_count=8&theme=radical"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nairsreya&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nairsreya&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
-</p>
-
----
 ##  Featured Projects
 
 <div align="center">
@@ -164,10 +146,3 @@
 
 *"Building the future, one block at a time"*   
 
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
-</div> 
