@@ -9,7 +9,7 @@
 
 ## About Me
 
--  I'm currently building **[Grove](https://grove-wellness-dapp.web.app/)** -mindfulness app that turns focus sessions into a tree-growing game, helping users build virtual groves while tracking their productivity time. 
+-  I'm currently building **[Grove](https://grove-wellness-dapp.web.app/)** -mindfulness   DApp that turns focus sessions into a tree-growing game, helping users build virtual groves while tracking their productivity time. 
 -  I'm diving deep into **backend development for Blockchain Technology** and exploring the decentralized ecosystem
 -  Let's talk about **blockchain technology, technical writing, and creative design**  
 -  Reach out to me at **sreyanair0609@gmail.com**  
