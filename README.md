@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! I'm Sreya Nair</h1>
-<h3 align="center">A passionate Blockchain Developer & an Engineer from India</h3>
+<h3 align="center">A passionate Developer from India</h3>
 
 <p align="center">
   
